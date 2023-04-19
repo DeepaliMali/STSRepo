@@ -10,9 +10,9 @@ public class AdditionApplication {
 		SpringApplication.run(AdditionApplication.class, args);
 	}
 
-	public String work()
+	public String stashdemo()
 	{
 		return "Work is going on";
 		
 	}
-}
+	}
